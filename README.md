@@ -1,6 +1,6 @@
 # Título do Projeto
 Protótipo app de viagens 
-
+NOTA: O Protótipo deve ser executado na ferramenta quant ux prototype 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
